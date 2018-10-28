@@ -7,6 +7,53 @@ Website Project
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
+
+## Hello World - Hardcore Mode
+
+PME is nearly finished perfecting his masterpiece, but he needs a sample of hello world in all the languages in the world!
+
+## How can I help?!
+
+PME, although boasts about knowing so many languages, actually only knows a few, and he wanted to see how all the languages looked like.
+
+## What do you mean by a sample of hello world?
+
+It must be a unique version of hello world in your chosen language. The language you choose must be one that has not been done by another fellow contributor.
+
+***TEMPLATE***
+
+Your file must ask for their name, with `Enter your name: `, and then use that input to respond with `Hello x!`, replacing `x` with their name.
+
+Here is an example of what you could do. Python is already taken.
+
+```python
+# By RPME - https://github.com/Programmerme
+
+name = input('Enter your name: ')
+print("Hello",name+"!")
+```
+
+## RULES 
+
+1. Your submission must be in the `HelloWorld` directory `HelloWorld/hello_world.{language}`
+2. Your submission must NOT be a duplicate of someone else's submission. It MUST be UNIQUE (the language MUST be UNIQUE, the sample MUST be UNIQUE).
+3. Make sure to say who made it at the top of the file, using a comment.
+4. The submissions are all checked automatically, if it fails because your response is wrong, then you're not following the template.
+5. No Malicious Code (cookie sniffing, iframe hacking, css local file stealing, ios rootkits, while loops that never end, CPU Monero Miners)
+
+6. No ADS (No advertising your product, No third party ads)
+7. DO NOT MODIFY OTHER PEOPLE'S SUBMISSIONS. THESE PRS WILL BE INSTANTLY DENIED AND MARKED SPAM.
+
+## But why is this a challenge?
+
+The point of this challenge is to prove that you know how to code in coding languages, rather than simple HTML.
+***THE LAST THING I WANT TO SEE FROM THIS CHALLENGE IS A BUNCH OF GENERIC HELLO WORLD FILES***
+
+## Final note
+
+Remember to check that your codes work by testing it beforehand! The template provided is VERY strict, you must follow the exact template in order to be merged.
+
+
 # First Contributions
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.

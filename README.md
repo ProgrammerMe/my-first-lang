@@ -35,7 +35,7 @@ print("Hello",name+"!")
 
 ## RULES 
 
-1. Your submission must be in the `first-program` directory `first-program/hello_langaugename.{language}`
+1. Your submission must be in the `first-program` directory `languagename/hello_world.{language extension}`
 2. Your submission must NOT be a duplicate of someone else's submission. It MUST be UNIQUE (the language MUST be UNIQUE, the sample MUST be UNIQUE).
 3. Make sure to say who made it at the top of the file, using a comment.
 4. The submissions are all checked automatically, if it fails because your response is wrong, then you're not following the template.

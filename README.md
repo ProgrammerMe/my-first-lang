@@ -1,5 +1,5 @@
-# nss-cucek
-Website Project
+# Helloworld
+Sample Project
 .....
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -91,7 +91,7 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/nss-cucek.git
+git clone https://github.com/this-is-you/my-first-lang.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
@@ -100,7 +100,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd nss-cucek
+cd my-first-lang
 ```
 Now create a branch using the `git checkout` command:
 ```

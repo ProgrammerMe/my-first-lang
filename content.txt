@@ -1,0 +1,5 @@
+## Website contents
+This site contains the following pages:
+* 01-index.html
+* 02-about.html
+* 03-contact.html

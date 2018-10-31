@@ -1,0 +1,20 @@
+#include <stdio.h>#include <stdlib.h>
+
+int main()
+{
+    FILE *fpstream;
+    char ch[50];
+
+    printf("Input: ");
+    scanf("%[^\n]", ch);
+
+
+    if ( (fpstream = fopen("sales.txt","a") ) == NULL)
+        printf("Cannot open sales.txt file.");
+    else{
+        fputs(ch,fpstream);
+        fclose(fpstream);
+    }
+    printf("\n");
+    system("pause");
+    return 0;
